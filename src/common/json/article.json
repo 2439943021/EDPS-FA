@@ -1,0 +1,328 @@
+﻿{
+    "pubmed_entity": {
+        "paper_id": "",
+        "title": {
+            "content": "Usefulness of the Measurement of Serum Paraoxonase-1 Arylesterase Activity in the Diagnoses of COVID-19Usefulness of the Measurement of Serum Paraoxonase-1 Arylesterase Activity in the Diagnoses of COVID-19",
+            "infos": [
+                {
+                    "index": "1.1.1.1",
+                    "type": "disease ",
+                    "relateInfo": {
+                        "translation": "value",
+                        "id": "value",
+                        "description": "value",
+                        "alia": "value"
+                    }
+                }
+            ]
+        },
+        "author_list": "Gabaldó X, Juanpere M ... Joven JGabaldó X, Juanpere M ... Joven J",
+        "abstract": {
+            "content": "The development of inexpensive, fast, and reliable screening tests for COVID-19 is, as yet, an unmet need. The present study was aimed at evaluating the usefulness of serum arylesterase activity of paraoxonase-1 (PON1) measurement as a screening test in patients with different severity levels of COVID-19 infection. We included 615 COVID-19-positive patients who were classified as asymptomatic, mildly symptomatic, severely symptomatic, or fatally symptomatic. Results were compared with 50 healthy volunteers, 330 patients with cancer, and 343 with morbid obesity. Results showed PON1 activity greatly decreased in COVID-19 compared to healthy volunteers; a receiver operating characteristics plot showed a high diagnostic accuracy. The degree of COVID-19 severity did not influence PON1 levels. Our results indicated that PON1 determination was efficient for disease diagnosis, but not for prognosis. Furthermore, patients with obesity or cancer presented alterations similar to those of COVID-19 patients. As such, elevated levels of PON1 indicate the absence of COVID-19, but low levels may be present in various other chronic diseases. The assay is fast and inexpensive. We suggest that PON1 measurement could be used as an initial, high cut-off point screening method, while lower values should be confirmed with the more expensive nucleic acid amplification test.",
+            "infos": [
+                {
+                    "index": "1.1.1.1",
+                    "type": "disease ",
+                    "relateInfo": {
+                        "translation": "value",
+                        "id": "value",
+                        "description": "value",
+                        "alia": "value"
+                    }
+                }
+            ]
+        },
+        "free_label": "",
+        "links_dict": "",
+        "doi_id": "PMID35883435",
+        "pmc_id": "PMC9312761"
+    },
+    "content": "全文",
+    "  ": [
+        {
+            "index": 1,
+            "chapter_title": "Introduction",
+            "content": "---",
+            "paragraphs": [
+                {
+                    "index": 1.1,
+                    "content": "---",
+                    "sentences": [
+                        {
+                            "index": "1.1.1",
+                            "content": "Coronavirus disease 2019 (COVID-19) continues to spread worldwide at dangerous levels, with high morbidity and mortality rates. Coronavirus disease 2019 (COVID-19) continues to spread worldwide at dangerous levels, with high morbidity and mortality rates. ",
+                            "infos": [
+                                {
+                                    "index": "1.1.1.1",
+                                    "type": "disease ",
+                                    "relateInfo": {
+                                        "translation": "value",
+                                        "id": "value",
+                                        "description": "value",
+                                        "alia": "value"
+                                    }
+                                },
+                                {
+                                    "index": "1.1.1.2",
+                                    "name": "COVID-19",
+                                    "type": "disease"
+                                }
+                            ]
+                        },
+                        {
+                            "index": "1.1.2",
+                            "content": "Despite the relative success of vaccination campaigns in high-income countries, the majority of populations in large areas of the world do not have access to vaccines, or to effective measures to prevent virus transmission.Despite the relative success of vaccination campaigns in high-income countries, the majority of populations in large areas of the world do not have access to vaccines, or to effective measures to prevent virus transmission.",
+                            "infos": []
+                        },
+                        {
+                            "index": "1.1.1",
+                            "content": "Coronavirus disease 2019 (COVID-19) continues to spread worldwide at dangerous levels, with high morbidity and mortality rates. Coronavirus disease 2019 (COVID-19) continues to spread worldwide at dangerous levels, with high morbidity and mortality rates. ",
+                            "infos": [
+                                {
+                                    "index": "1.1.1.1",
+                                    "name": "Coronavirus disease 2019",
+                                    "type": "disease "
+                                },
+                                {
+                                    "index": "1.1.1.2",
+                                    "name": "COVID-19",
+                                    "type": "disease"
+                                }
+                            ]
+                        },
+                        {
+                            "index": "1.1.3",
+                            "content": "Furthermore, variants such as omicron (PANGO identifier B.1.1.529) clearly demonstrated that new variants can appear that are more infective and more adept at escaping the action of existing vaccines.",
+                            "infos": []
+                        },
+                        {
+                            "index": "1.1.4",
+                            "content": "The current consensus in the scientific community is that COVID-19 will not be eradicated easily, and that populations would need to accommodate for the infection in the future. In this context, developing cheap, fast, and reliable screening tests remains a peremptory need.",
+                            "infos": [
+                                {
+                                    "idx": "1.1.4.1",
+                                    "name": "COVID-19 ",
+                                    "type": "disease"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 1.2,
+                    "content": "---",
+                    "sentences": [
+                        {
+                            "index": "1.2.1",
+                            "content": "Although antigen tests have demonstrated their efficacy in confirming infection in symptomatic patients, the gold standard method for the diagnosis of COVID-19 remains the detection of the viral messenger RNA by nucleic acid amplification tests (NAATs). ",
+                            "infos": [
+                                {
+                                    "index": "1.2.1.1",
+                                    "name": "COVID-19",
+                                    "type": "disease"
+                                }
+                            ]
+                        },
+                        {
+                            "index": "1.2.2",
+                            "content": "However, these techniques are not without drawbacks. NAATs are expensive and require time and specialized laboratories that tend to be saturated or even overwhelmed during times of outbreak. ",
+                            "infos": []
+                        },
+                        {
+                            "index": "1.2.3",
+                            "content": "Additionally, many countries cannot afford the cost of performing NAATs on several thousands of people. Conversely, antigen tests are unreliable in asymptomatic patients.",
+                            "infos": []
+                        },
+                        {
+                            "index": "1.1.3",
+                            "content": "Furthermore, variants such as omicron (PANGO identifier B.1.1.529) clearly demonstrated that new variants can appear that are more infective and more adept at escaping the action of existing vaccines.",
+                            "infos": []
+                        },
+                        {
+                            "index": "1.2.4",
+                            "content": "We recently reported preliminary results suggesting that the measurement of paraoxonase-1 (PON1) arylesterase activity can be a good marker of COVID-19, with excellent sensitivity and specificity. ",
+                            "infos": [
+                                {
+                                    "idx": "1.2.4.1",
+                                    "name": "paraoxonase-1 ",
+                                    "type": "Gene"
+                                },
+                                {
+                                    "idx": "1.2.4.2",
+                                    "name": "PON1 ",
+                                    "type": "Gene"
+                                },
+                                {
+                                    "idx": "1.2.4.3",
+                                    "name": " COVID-19 ",
+                                    "type": "disease"
+                                }
+                            ]
+                        },
+                        {
+                            "index": "1.2.4",
+                            "content": "We recently reported preliminary results suggesting that the measurement of paraoxonase-1 (PON1) arylesterase activity can be a good marker of COVID-19, with excellent sensitivity and specificity. ",
+                            "infos": [
+                                {
+                                    "idx": "1.2.4.1",
+                                    "name": "paraoxonase-1 ",
+                                    "type": "Gene"
+                                },
+                                {
+                                    "idx": "1.2.4.2",
+                                    "name": "PON1 ",
+                                    "type": "Gene"
+                                },
+                                {
+                                    "idx": "1.2.4.3",
+                                    "name": " COVID-19 ",
+                                    "type": "disease"
+                                }
+                            ]
+                        },
+                        {
+                            "index": "1.2.6",
+                            "content": "In the present study, we aimed to investigate the usefulness of serum arylesterase activity of PON1 measurement in the evaluation of COVID-19 in a larger series of outpatients and hospitalized patients, with different levels of disease severity.",
+                            "infos": [
+                                {
+                                    "idx": "1.2.6.1",
+                                    "name": "PON1",
+                                    "type": "gene"
+                                },
+                                {
+                                    "idx": "1.2.6.2",
+                                    "name": "COVID-19",
+                                    "type": "disease"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "chapter_title": "Materials and Methods",
+            "content": "",
+            "paragraphs": [
+                {
+                    "index": "",
+                    "content": "",
+                    "sentences": [
+                        {
+                            "index": "",
+                            "content": "",
+                            "infos": [
+                                {
+                                    "index": "",
+                                    "name": "",
+                                    "type": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "subChapter": {
+                "index": 2.1,
+                "title": "Study Design and Data Collection",
+                "content": "---",
+                "paragraphs": [
+                    {
+                        "index": "",
+                        "content": "",
+                        "sentences": [
+                            {
+                                "index": "",
+                                "content": "",
+                                "info": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "index": "",
+            "chapter_title": "",
+            "content": "",
+            "paragraphs": [
+                {
+                    "index": "",
+                    "content": "",
+                    "sentences": [
+                        {
+                            "index": "",
+                            "content": "",
+                            "infos": [
+                                {
+                                    "index": "",
+                                    "name": "",
+                                    "type": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": "",
+            "chapter_title": "",
+            "content": "",
+            "paragraphs": [
+                {
+                    "index": "",
+                    "content": "",
+                    "sentences": [
+                        {
+                            "index": "",
+                            "content": "",
+                            "infos": [
+                                {
+                                    "index": "",
+                                    "name": "",
+                                    "type": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": "",
+            "chapter_title": "",
+            "content": "",
+            "paragraphs": [
+                {
+                    "index": "",
+                    "content": "",
+                    "sentences": [
+                        {
+                            "index": "",
+                            "content": "",
+                            "infos": [
+                                {
+                                    "index": "",
+                                    "name": "",
+                                    "type": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "figures": [
+        {
+            "idx": "--",
+            "title": "--",
+            "content": "---",
+            "Url": "---"
+        }
+    ]
+}

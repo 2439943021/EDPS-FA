@@ -1,0 +1,1505 @@
+{
+	"articleNode": {
+		"index": "0",
+		"content": "TBC1D24, an ARF6-Interacting Protein, Is Mutated\nIn Familial Infantile Myoclonic Epilepsy\n",
+		"nodeType": "ROOT",
+		"fontSize": 14.648000000000001,
+		"nodes": [{
+			"index": "1",
+			"content": "Antonio Falace,! Fabia Filipello,2 Veronica La Padula,? Nicola Vanni,! Francesca Madia,#\nDavide De Pietri Tonelli, Fabrizio A. de Falco,> Pasquale Striano,! Franca Dagna Bricarelli,*\nCarlo Minetti,! Fabio Benfenati,2?> Anna Fassio,2,\u00b0* and Federico Zaral,\u00a9\u201d\n",
+			"nodeType": "PARAGRAPH",
+			"fontSize": 6.035731182795699,
+			"nodes": [{
+				"index": "1.1",
+				"content": "Antonio Falace,!",
+				"nodeType": "SENTENCE",
+				"fontSize": 6.035731182795699,
+				"nodes": []
+			}, {
+				"index": "1.2",
+				"content": "Fabia Filipello,2 Veronica La Padula,?",
+				"nodeType": "SENTENCE",
+				"fontSize": 6.035731182795699,
+				"nodes": []
+			}, {
+				"index": "1.3",
+				"content": "Nicola Vanni,!",
+				"nodeType": "SENTENCE",
+				"fontSize": 6.035731182795699,
+				"nodes": []
+			}, {
+				"index": "1.4",
+				"content": "Francesca Madia,#Davide De Pietri Tonelli, Fabrizio A. de Falco,> Pasquale Striano,!",
+				"nodeType": "SENTENCE",
+				"fontSize": 6.035731182795699,
+				"nodes": []
+			}, {
+				"index": "1.5",
+				"content": "Franca Dagna Bricarelli,*Carlo Minetti,!",
+				"nodeType": "SENTENCE",
+				"fontSize": 6.035731182795699,
+				"nodes": []
+			}, {
+				"index": "1.6",
+				"content": "Fabio Benfenati,2?> Anna Fassio,2,\u00b0* and Federico Zaral,\u00a9\u201d",
+				"nodeType": "SENTENCE",
+				"fontSize": 6.035731182795699,
+				"nodes": []
+			}]
+		}, {
+			"index": "2",
+			"content": "Idiopathic epilepsies (IEs) are a group of disorders characterized by recurrent seizures in the absence of detectable brain lesions or meta\nbolic abnormalities. IEs include common disorders with a complex mode of inheritance and rare Mendelian traits suggesting the occur\nrence of several alleles with variable penetrance. We previously described a large family with a recessive form of idiopathic epilepsy\nnamed familial infantile myoclonic epilepsy (FIME), and mapped the disease locus on chromosome 16p13.3 by linkage analysis\nIn the present study, we found that two compound heterozygous missense mutations (D147H and ASO9V) in TBC1D24, a gene o\nunknown function, are responsible for FIME. In situ hybridization analysis revealed that Tbc1d24 is mainly expressed at the level o\nthe cerebral cortex and the hippocampus. By coimmunoprecipitation assay we found that TBC1D24 binds ARF6, a Ras-related famil\nof small GTPases regulating exo-endocytosis dynamics. The main recognized function of ARF6 in the nervous system is the regulatior\nof dendritic branching, spine formation, and axonal extension. TBC1D24 overexpression resulted in a significant increase in neurite\nlength and arborization and the FIME mutations significantly reverted this phenotype. In this study we identified a gene mutatior\ninvolved in autosomal-recessive idiopathic epilepsy, unveiled the involvement of ARF6-dependent molecular pathway in brain hyper\nexcitability and seizures, and confirmed the emerging role of subtle cytoarchitectural alterations in the etiology of this group of commor\nepileptic disorders.\n",
+			"nodeType": "PARAGRAPH",
+			"fontSize": 4.329993598784854,
+			"nodes": [{
+				"index": "2.1",
+				"content": "Idiopathic epilepsies (IEs) are a group of disorders characterized by recurrent seizures in the absence of detectable brain lesions or metabolic abnormalities.",
+				"nodeType": "SENTENCE",
+				"fontSize": 4.329993598784854,
+				"nodes": []
+			}, {
+				"index": "2.2",
+				"content": "IEs include common disorders with a complex mode of inheritance and rare Mendelian traits suggesting the occurrence of several alleles with variable penetrance.",
+				"nodeType": "SENTENCE",
+				"fontSize": 4.329993598784854,
+				"nodes": []
+			}, {
+				"index": "2.3",
+				"content": "We previously described a large family with a recessive form of idiopathic epilepsynamed familial infantile myoclonic epilepsy (FIME), and mapped the disease locus on chromosome 16p13.3 by linkage analysisIn the present study, we found that two compound heterozygous missense mutations (D147H and ASO9V) in TBC1D24, a gene ounknown function, are responsible for FIME.",
+				"nodeType": "SENTENCE",
+				"fontSize": 4.329993598784854,
+				"nodes": []
+			}, {
+				"index": "2.4",
+				"content": "In situ hybridization analysis revealed that Tbc1d24 is mainly expressed at the level othe cerebral cortex and the hippocampus.",
+				"nodeType": "SENTENCE",
+				"fontSize": 4.329993598784854,
+				"nodes": []
+			}, {
+				"index": "2.5",
+				"content": "By coimmunoprecipitation assay we found that TBC1D24 binds ARF6, a Ras-related familof small GTPases regulating exo-endocytosis dynamics.",
+				"nodeType": "SENTENCE",
+				"fontSize": 4.329993598784854,
+				"nodes": []
+			}, {
+				"index": "2.6",
+				"content": "The main recognized function of ARF6 in the nervous system is the regulatiorof dendritic branching, spine formation, and axonal extension.",
+				"nodeType": "SENTENCE",
+				"fontSize": 4.329993598784854,
+				"nodes": []
+			}, {
+				"index": "2.7",
+				"content": "TBC1D24 overexpression resulted in a significant increase in neuritelength and arborization and the FIME mutations significantly reverted this phenotype.",
+				"nodeType": "SENTENCE",
+				"fontSize": 4.329993598784854,
+				"nodes": []
+			}, {
+				"index": "2.8",
+				"content": "In this study we identified a gene mutatiorinvolved in autosomal-recessive idiopathic epilepsy, unveiled the involvement of ARF6-dependent molecular pathway in brain hyperexcitability and seizures, and confirmed the emerging role of subtle cytoarchitectural alterations in the etiology of this group of commorepileptic disorders.",
+				"nodeType": "SENTENCE",
+				"fontSize": 4.329993598784854,
+				"nodes": []
+			}]
+		}, {
+			"index": "3",
+			"content": "Results and Discussion\n",
+			"nodeType": "TITLE",
+			"fontSize": 8.013409090909091,
+			"nodes": [{
+				"index": "3.1",
+				"content": "aaa rate \u201cPrt Pees\u2019 (itv) UMUin UV O-V\u201cE WEE VSt1IVVI'UN LEY 11MM UNL\n\nterized by recurrent seizures in the absence of detectable\nbrain lesions or metabolic abnormalities and affecting\nabout 0.4% of the general population. Epidemiological\nstudies highlighted the pivotal role of genetic factors in\nthe etiology of these conditions.\u2019 IEs include common\ndisorders with a complex mode of inheritance and rare\nMendelian traits suggesting the occurrence of several\nalleles with variable penetrance. The dissection of the\ncomplex genetics underlying IEs represented so far a chal-\nlenging task, and alleles conferring susceptibility to\nseizures have not been identified yet. On the other hand,\nthe investigation of rare Mendelian traits highlighted\nthe critical role of genes encoding different ion channel\nsubunits, including voltage-gated and ligand-gated chan-\nnels, and shed light into epileptogenic mechanisms\nbehind IEs.\u201d\u00b0 In addition, the identification of mutations\nin LGI1* (ADLTE [MIM 600512]) and EFHC1\u00b0 (EJM [MIM\n254770|) in familial forms of IE underlying subtle defects\nin embryonic or postnatal brain development provided\nevidence that pathogenesis of IE is more composite.\nIn 2001, we described an autosomal-recessive early-onset\nidiopathic generalized epilepsy in a large family from\nSouthern Italy characterized by myoclonic and generalized\ntonic-clonic seizures, photosensitivity, normal neurolog-\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.402400762509928,
+				"nodes": [{
+					"index": "3.1.1",
+					"content": "aaa rate \u201cPrt Pees\u2019 (itv) UMUin UV O-V\u201cE WEE VSt1IVVI'UN LEY 11MM UNLterized by recurrent seizures in the absence of detectablebrain lesions or metabolic abnormalities and affectingabout 0.4% of the general population.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.402400762509928,
+					"nodes": []
+				}, {
+					"index": "3.1.2",
+					"content": "Epidemiologicalstudies highlighted the pivotal role of genetic factors inthe etiology of these conditions.\u2019 IEs include commondisorders with a complex mode of inheritance and rareMendelian traits suggesting the occurrence of severalalleles with variable penetrance.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.402400762509928,
+					"nodes": []
+				}, {
+					"index": "3.1.3",
+					"content": "The dissection of thecomplex genetics underlying IEs represented so far a chal-lenging task, and alleles conferring susceptibility toseizures have not been identified yet.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.402400762509928,
+					"nodes": []
+				}, {
+					"index": "3.1.4",
+					"content": "On the other hand,the investigation of rare Mendelian traits highlightedthe critical role of genes encoding different ion channelsubunits, including voltage-gated and ligand-gated chan-nels, and shed light into epileptogenic mechanismsbehind IEs.\u201d\u00b0 In addition, the identification of mutationsin LGI1* (ADLTE [MIM 600512]) and EFHC1\u00b0 (EJM [MIM254770|) in familial forms of IE underlying subtle defectsin embryonic or postnatal brain development providedevidence that pathogenesis of IE is more composite.In 2001, we described an autosomal-recessive early-onsetidiopathic generalized epilepsy in a large family fromSouthern Italy characterized by myoclonic and generalizedtonic-clonic seizures, photosensitivity, normal neurolog-",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.402400762509928,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.2",
+				"content": "ical and mental development, and good response to treat-\nment (familial infantile myoclonic epilepsy, FIME [MIM\n605021]) and mapped the FIME locus within a 3.4 cM\ninterval on chromosome 16p13.3 between markers\nD16S3024 and D16$423.\u00b0\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.9267840000000005,
+				"nodes": [{
+					"index": "3.2.1",
+					"content": "ical and mental development, and good response to treat-ment (familial infantile myoclonic epilepsy, FIME [MIM605021]) and mapped the FIME locus within a 3.4 cMinterval on chromosome 16p13.3 between markersD16S3024 and D16$423.\u00b0",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.9267840000000005,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.3",
+				"content": "Toward the identification of the causative mutation, we\nperformed high-density SNP genotyping by pyrosequenc-\ning and refined the FIME critical region to 2 Mb between\nrs35856 and 1rs9936111. The local Ethics Committee\napproved the study and a signed informed consent was\nobtained from family members participating to the\nstudy. Haplotype analysis indicated the occurrence of two\ndistinct disease chromosomes suggestive of compound\nheterozygous mutations and confirmed initial mapping\ndata (data not shown). The critical region contains 54\nRefSeq genes, none of them with a definite role in neuronal\nexcitability or epileptogenesis (Table S1 available online).\nThe systematic mutational screening of 34 genes in\ntwo affected family members (III-1 and III-10) by Sanger\nsequencing of amplified exonic sequences and flanking\nintronic segments led to the identification of two com-\npound heterozygous missense mutations in TBC1D24\n(c.439G>C [p.D147H]; c.1526C>T [p.AS509V]) (Figures\n1A and 1B). These variants are not included in the SNP\ndatabase and were not identified in 300 Italian controls.\nNo other candidate mutations emerged from the remain-\ning genes. We extended the mutational analysis to all\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.742708581138488,
+				"nodes": [{
+					"index": "3.3.1",
+					"content": "Toward the identification of the causative mutation, weperformed high-density SNP genotyping by pyrosequenc-ing and refined the FIME critical region to 2 Mb betweenrs35856 and 1rs9936111.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.742708581138488,
+					"nodes": []
+				}, {
+					"index": "3.3.2",
+					"content": "The local Ethics Committeeapproved the study and a signed informed consent wasobtained from family members participating to thestudy.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.742708581138488,
+					"nodes": []
+				}, {
+					"index": "3.3.3",
+					"content": "Haplotype analysis indicated the occurrence of twodistinct disease chromosomes suggestive of compoundheterozygous mutations and confirmed initial mappingdata (data not shown).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.742708581138488,
+					"nodes": []
+				}, {
+					"index": "3.3.4",
+					"content": "The critical region contains 54RefSeq genes, none of them with a definite role in neuronalexcitability or epileptogenesis (Table S1 available online).The systematic mutational screening of 34 genes intwo affected family members (III-1 and III-10) by Sangersequencing of amplified exonic sequences and flankingintronic segments led to the identification of two com-pound heterozygous missense mutations in TBC1D24(c.439G>C [p.D147H]; c.1526C>T [p.AS509V]) (Figures1A and 1B).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.742708581138488,
+					"nodes": []
+				}, {
+					"index": "3.3.5",
+					"content": "These variants are not included in the SNPdatabase and were not identified in 300 Italian controls.No other candidate mutations emerged from the remain-ing genes.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.742708581138488,
+					"nodes": []
+				}, {
+					"index": "3.3.6",
+					"content": "We extended the mutational analysis to all",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.742708581138488,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.4",
+				"content": "\u2018Laboratory of Neurogenetics, Department of Neuroscience, Institute G. Gaslini and University of Genova, Genoa, 16147, Italy; 7Department of Exper\nmental Medicine, University of Genova and National Institute of Neuroscience, Genoa, 16132, Italy; *Department of Neuroscience and Brain Technolog.\nItalian Institute of Technology, Genoa, 16163, Italy; *Laboratory of Genetics, E.O. Ospedali Galliera, Genoa, 16128, Italy; \u00b0U.O. Neurologia, P.O. Loret\nMare, Napoli, 90100, Italy\n\n\u00b0These authors contributed equally to this work\n\n*Correspondence: afassio@unige.it (A.F.), federicozara@ospedale-gaslini.ge.it (F.Z.)\n\nDOI 10.1016/j.ajhg.2010.07.020. \u00a92010 by The American Society of Human Genetics. All rights reserved.\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.2870739348370925,
+				"nodes": [{
+					"index": "3.4.1",
+					"content": "\u2018Laboratory of Neurogenetics, Department of Neuroscience, Institute G. Gaslini and University of Genova, Genoa, 16147, Italy; 7Department of Expermental Medicine, University of Genova and National Institute of Neuroscience, Genoa, 16132, Italy; *Department of Neuroscience and Brain Technolog.Italian Institute of Technology, Genoa, 16163, Italy; *Laboratory of Genetics, E.O.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.2870739348370925,
+					"nodes": []
+				}, {
+					"index": "3.4.2",
+					"content": "Ospedali Galliera, Genoa, 16128, Italy; \u00b0U.O.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.2870739348370925,
+					"nodes": []
+				}, {
+					"index": "3.4.3",
+					"content": "Neurologia, P.O.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.2870739348370925,
+					"nodes": []
+				}, {
+					"index": "3.4.4",
+					"content": "LoretMare, Napoli, 90100, Italy\u00b0These authors contributed equally to this work*Correspondence: afassio@unige.it (A.F.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.2870739348370925,
+					"nodes": []
+				}, {
+					"index": "3.4.5",
+					"content": "), federicozara@ospedale-gaslini.ge.it (F.Z.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.2870739348370925,
+					"nodes": []
+				}, {
+					"index": "3.4.6",
+					"content": ")DOI 10.1016/j.ajhg.2010.07.020.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.2870739348370925,
+					"nodes": []
+				}, {
+					"index": "3.4.7",
+					"content": "\u00a92010 by The American Society of Human Genetics.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.2870739348370925,
+					"nodes": []
+				}, {
+					"index": "3.4.8",
+					"content": "All rights reserved.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.2870739348370925,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.5",
+				"content": "available family members and confirmed that mutations\nsegregate from different branches and that all patients\naffected by FIME are compound heterozygous carriers.\nMoreover, none of the unaffected family members carry\nboth mutations. TBC1D24 encodes for a putative protein\nof 553 amino acids of unknown function (accession IDs:\nNM_020705.1 and NP_065756). BLASTP alignments indi-\ncated that TBC1D24 has no significant homology with\nother human proteins but is evolutionary conserved till\nlower vertebrates (HomoloGene:27469).\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.613882352941177,
+				"nodes": [{
+					"index": "3.5.1",
+					"content": "available family members and confirmed that mutationssegregate from different branches and that all patientsaffected by FIME are compound heterozygous carriers.Moreover, none of the unaffected family members carryboth mutations.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.613882352941177,
+					"nodes": []
+				}, {
+					"index": "3.5.2",
+					"content": "TBC1D24 encodes for a putative proteinof 553 amino acids of unknown function (accession IDs:NM_020705.1 and NP_065756).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.613882352941177,
+					"nodes": []
+				}, {
+					"index": "3.5.3",
+					"content": "BLASTP alignments indi-cated that TBC1D24 has no significant homology withother human proteins but is evolutionary conserved tilllower vertebrates (HomoloGene:27469).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.613882352941177,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.6",
+				"content": "TBC1D24 is characterized by a Tre2/Bub2/Cdc16 (TBC)\ndomain, shared by Rab GTPase-activating proteins (Rab-\nGAPs) and a TLDc domain with no reported putative func-\ntion, despite occurring in four additional human genes.\u00ae\u201d\nThe identified mutations affect two highly conserved\namino acids in TBC (D147H) and TLDc (ASO09V) domains\n(Figure 1C). The combination of TBC and TLDc domains\nis a unique feature among human proteins but it is found\nin about 30 proteins of different species.\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.590534979423868,
+				"nodes": [{
+					"index": "3.6.1",
+					"content": "TBC1D24 is characterized by a Tre2/Bub2/Cdc16 (TBC)domain, shared by Rab GTPase-activating proteins (Rab-GAPs) and a TLDc domain with no reported putative func-tion, despite occurring in four additional human genes.\u00ae\u201dThe identified mutations affect two highly conservedamino acids in TBC (D147H) and TLDc (ASO09V) domains(Figure 1C).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.590534979423868,
+					"nodes": []
+				}, {
+					"index": "3.6.2",
+					"content": "The combination of TBC and TLDc domainsis a unique feature among human proteins but it is foundin about 30 proteins of different species.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.590534979423868,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.7",
+				"content": "The expression profile of TBC1D24 was evaluated in\nvarious human tissues by real-time PCR assay on an ABI\nPrism 7500 Real-Time PCR Systems (Applied Biosystems)\nwith a TaqManMGB probe (assay ID; Hs00324855_m1,\nApplied Biosystems) specific for human TBC1D24. Each\nassay was carried out in triplicate, normalized to an endog-\nenous reference (GAPDH [MIM 138400]), and expressed\nrelative to a calibrator sample as previously described.*\u00b0\nTBC1D24 is expressed in several human tissues, with the\nhighest level of expression in the brain (Figure 2A). To\nfurther analyze the distribution of TBC1D24 within the\nbrain, RNA in situ hybridization was performed on coronal\nsections from 12-week-old mouse brain via an anti-digox-\nygenin Tbc1d24 antisense oligonucleotide probe, as previ-\nously described.'! The Thc1d24 signal was mainly detected\nat the level of the cortex and the hippocampus (Figure 2B;\nFigure S1). In the cerebral cortex, Tbc1d24 was expressed\nthrough all layers, although more abundantly in layers\nV/VI (Figure 2C); in the hippocampus, Tbhc1d24 was mark-\nedly expressed in the CA3 region and to a lower extent in\nthe CA1 region and dentate gyrus (Figure 2D). Moreover,\nwe evaluated the cortical expression of Tbc1d24 at different\nembryonic stages (days 15.5 and 18.5) and found that\nits expression increased during cortical development,\nparticularly in the internal part of the cortical plate and\nin the subventricular zone (Figure S2).\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.546518492793887,
+				"nodes": [{
+					"index": "3.7.1",
+					"content": "The expression profile of TBC1D24 was evaluated invarious human tissues by real-time PCR assay on an ABIPrism 7500 Real-Time PCR Systems (Applied Biosystems)with a TaqManMGB probe (assay ID; Hs00324855_m1,Applied Biosystems) specific for human TBC1D24.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.546518492793887,
+					"nodes": []
+				}, {
+					"index": "3.7.2",
+					"content": "Eachassay was carried out in triplicate, normalized to an endog-enous reference (GAPDH [MIM 138400]), and expressedrelative to a calibrator sample as previously described.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.546518492793887,
+					"nodes": []
+				}, {
+					"index": "3.7.3",
+					"content": "*\u00b0TBC1D24 is expressed in several human tissues, with thehighest level of expression in the brain (Figure 2A).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.546518492793887,
+					"nodes": []
+				}, {
+					"index": "3.7.4",
+					"content": "Tofurther analyze the distribution of TBC1D24 within thebrain, RNA in situ hybridization was performed on coronalsections from 12-week-old mouse brain via an anti-digox-ygenin Tbc1d24 antisense oligonucleotide probe, as previ-ously described.'!",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.546518492793887,
+					"nodes": []
+				}, {
+					"index": "3.7.5",
+					"content": "The Thc1d24 signal was mainly detectedat the level of the cortex and the hippocampus (Figure 2B;Figure S1).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.546518492793887,
+					"nodes": []
+				}, {
+					"index": "3.7.6",
+					"content": "In the cerebral cortex, Tbc1d24 was expressedthrough all layers, although more abundantly in layersV/VI (Figure 2C); in the hippocampus, Tbhc1d24 was mark-edly expressed in the CA3 region and to a lower extent inthe CA1 region and dentate gyrus (Figure 2D).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.546518492793887,
+					"nodes": []
+				}, {
+					"index": "3.7.7",
+					"content": "Moreover,we evaluated the cortical expression of Tbc1d24 at differentembryonic stages (days 15.5 and 18.5) and found thatits expression increased during cortical development,particularly in the internal part of the cortical plate andin the subventricular zone (Figure S2).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.546518492793887,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.8",
+				"content": "Sequence analysis showed that the TBC domain of\nTBC1D24 lacks critical residues conferring GAP properties\nto most RabGAPs, particularly the \u201carginine finger\u201d at\nposition 56 of the TBC domain consensus sequence\n(PFO0566).'* Three human TBC proteins missing the argi-\nnine finger have been investigated and were all proven to\nlack RabGAP activity (Table S2). Among these, USP6/\nTRE17 and TBC1D3 have been shown to interact with\nthe small GTPase ADP ribosylation factor 6 (ARF6 [MIM\n600464]).'*'* ARF6 is implicated in the regulation of\nmembrane trafficking between the plasma membrane\nand the endocytic compartment through the activation\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.857428571428572,
+				"nodes": [{
+					"index": "3.8.1",
+					"content": "Sequence analysis showed that the TBC domain ofTBC1D24 lacks critical residues conferring GAP propertiesto most RabGAPs, particularly the \u201carginine finger\u201d atposition 56 of the TBC domain consensus sequence(PFO0566).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.857428571428572,
+					"nodes": []
+				}, {
+					"index": "3.8.2",
+					"content": "'* Three human TBC proteins missing the argi-nine finger have been investigated and were all proven tolack RabGAP activity (Table S2).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.857428571428572,
+					"nodes": []
+				}, {
+					"index": "3.8.3",
+					"content": "Among these, USP6/TRE17 and TBC1D3 have been shown to interact withthe small GTPase ADP ribosylation factor 6 (ARF6 [MIM600464]).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.857428571428572,
+					"nodes": []
+				}, {
+					"index": "3.8.4",
+					"content": "'*'* ARF6 is implicated in the regulation ofmembrane trafficking between the plasma membraneand the endocytic compartment through the activation",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.857428571428572,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.9",
+				"content": "of the lipid-modifying enzymes phospholipase D and\nphosphotidyl]-inositol-4-phosphate 5-kinase.'\u00bb\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 6.33906,
+				"nodes": [{
+					"index": "3.9.1",
+					"content": "of the lipid-modifying enzymes phospholipase D andphosphotidyl]-inositol-4-phosphate 5-kinase.",
+					"nodeType": "SENTENCE",
+					"fontSize": 6.33906,
+					"nodes": []
+				}, {
+					"index": "3.9.2",
+					"content": "'\u00bb",
+					"nodeType": "SENTENCE",
+					"fontSize": 6.33906,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.10",
+				"content": "We therefore investigated the possible interaction\nbetween TBC1D24 and ARF6 in COS7 cells (ATCC number\nCRL-1651) overexpressing GFP-tagged TBC1D24 and HA-\ntagged ARF6, in either its wild-type (WT), GDP-locked\n(T27N), or GTP-locked (Q67L) form.'\u00ae When transiently\noverexpressed in COS-7 cells and analyzed 36 hours\nafter transfection, GFP-TBC1D24 showed a predominant\ncytoplasmatic localization (Figure 3A) and was partially\nexpressed at the plasma membrane where it colocalized\nwith coexpressed ARF6-HA (Figure 3B). For coimmunopre-\ncipitation experiments, COS-7 cells were cotransfected\nwith GFP-TBC1D24 and ARF6-HA and lysed 36 hr after\ntransfection (lysis buffer: 50 mM Tris [pH 7.5], 150 mM\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.872926543127583,
+				"nodes": [{
+					"index": "3.10.1",
+					"content": "We therefore investigated the possible interactionbetween TBC1D24 and ARF6 in COS7 cells (ATCC numberCRL-1651) overexpressing GFP-tagged TBC1D24 and HA-tagged ARF6, in either its wild-type (WT), GDP-locked(T27N), or GTP-locked (Q67L) form.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.872926543127583,
+					"nodes": []
+				}, {
+					"index": "3.10.2",
+					"content": "'\u00ae When transientlyoverexpressed in COS-7 cells and analyzed 36 hoursafter transfection, GFP-TBC1D24 showed a predominantcytoplasmatic localization (Figure 3A) and was partiallyexpressed at the plasma membrane where it colocalizedwith coexpressed ARF6-HA (Figure 3B).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.872926543127583,
+					"nodes": []
+				}, {
+					"index": "3.10.3",
+					"content": "For coimmunopre-cipitation experiments, COS-7 cells were cotransfectedwith GFP-TBC1D24 and ARF6-HA and lysed 36 hr aftertransfection (lysis buffer: 50 mM Tris [pH 7.5], 150 mM",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.872926543127583,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.11",
+				"content": "NaCl, 0.1% sodium dodecyl sulfate, 1% Nonidet P40,\n0.2 mM phenylmethylsulfonyl fluoride, 2 ug/ml pepstatin,\nand 1 ug/ml leupeptin). GFP-TBC1D24 or ARF6-HA were\nimmunoprecipitated with anti-GFP or anti-HA polyclonal\nantibodies (Invitrogen), respectively, and interacting\nARF6 or TBC1D24 were detected by retrospective immuno-\nblotting with anti-HA or anti-GFP monoclonal antibodies\n(Millipore). ARF-6 coimmunoprecipitated with TBC1D24\n(Figure 3C) as well as TBC1D24 coimmunoprecipitated\nwith ARF6 (Figure S2). The intensity of the coimmunopre-\ncipitated band increased in the presence of T27N-ARF6 and\ndecreased in the presence of Q67L-ARF6, suggesting\na GDP-dependent interaction (Figure 3C). When express-\ning TBC1D24 mutant forms, the interaction with ARF6\nwas significantly impaired by the D147H mutation and\npreserved in the ASO9V mutant (Figure 3C). These findings\nsuggest an involvement of the TBC domain in the interac-\ntion with ARF6, as described for USP6,'* and reveal an\nessential role of the aspartic acid 147 in mediating\nTBC1D24-ARF6 interaction (Figure 3C).\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.6105543478260875,
+				"nodes": [{
+					"index": "3.11.1",
+					"content": "NaCl, 0.1% sodium dodecyl sulfate, 1% Nonidet P40,0.2 mM phenylmethylsulfonyl fluoride, 2 ug/ml pepstatin,and 1 ug/ml leupeptin).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6105543478260875,
+					"nodes": []
+				}, {
+					"index": "3.11.2",
+					"content": "GFP-TBC1D24 or ARF6-HA wereimmunoprecipitated with anti-GFP or anti-HA polyclonalantibodies (Invitrogen), respectively, and interactingARF6 or TBC1D24 were detected by retrospective immuno-blotting with anti-HA or anti-GFP monoclonal antibodies(Millipore).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6105543478260875,
+					"nodes": []
+				}, {
+					"index": "3.11.3",
+					"content": "ARF-6 coimmunoprecipitated with TBC1D24(Figure 3C) as well as TBC1D24 coimmunoprecipitatedwith ARF6 (Figure S2).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6105543478260875,
+					"nodes": []
+				}, {
+					"index": "3.11.4",
+					"content": "The intensity of the coimmunopre-cipitated band increased in the presence of T27N-ARF6 anddecreased in the presence of Q67L-ARF6, suggestinga GDP-dependent interaction (Figure 3C).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6105543478260875,
+					"nodes": []
+				}, {
+					"index": "3.11.5",
+					"content": "When express-ing TBC1D24 mutant forms, the interaction with ARF6was significantly impaired by the D147H mutation andpreserved in the ASO9V mutant (Figure 3C).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6105543478260875,
+					"nodes": []
+				}, {
+					"index": "3.11.6",
+					"content": "These findingssuggest an involvement of the TBC domain in the interac-tion with ARF6, as described for USP6,'* and reveal anessential role of the aspartic acid 147 in mediatingTBC1D24-ARF6 interaction (Figure 3C).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6105543478260875,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.12",
+				"content": "The main function of ARF6 in the nervous system is the\nregulation of dendritic branching, spine formation, and\naxonal extension.'\u2019 To investigate the effect of TBC1D24\nand FIME mutations in neuritogenesis, GFP-tagged wild-\ntype and mutant forms of TBC1D24 were transiently\nexpressed in primary cortical neurons prepared from\nC57B16J mouse embryos as previously described'\u00ae and\nneurite outgrowth and arborization were evaluated. Neu-\nrons were plated at low density (100 cells/mm/?), trans-\nfected after 7 days in vitro (DIV) with lipofectamine trans-\nfection reagent (Invitrogen), and analyzed at 9 DIV. For\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.65731566175098,
+				"nodes": [{
+					"index": "3.12.1",
+					"content": "The main function of ARF6 in the nervous system is theregulation of dendritic branching, spine formation, andaxonal extension.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.65731566175098,
+					"nodes": []
+				}, {
+					"index": "3.12.2",
+					"content": "'\u2019 To investigate the effect of TBC1D24and FIME mutations in neuritogenesis, GFP-tagged wild-type and mutant forms of TBC1D24 were transientlyexpressed in primary cortical neurons prepared fromC57B16J mouse embryos as previously described'\u00ae andneurite outgrowth and arborization were evaluated.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.65731566175098,
+					"nodes": []
+				}, {
+					"index": "3.12.3",
+					"content": "Neu-rons were plated at low density (100 cells/mm/?",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.65731566175098,
+					"nodes": []
+				}, {
+					"index": "3.12.4",
+					"content": "), trans-fected after 7 days in vitro (DIV) with lipofectamine trans-fection reagent (Invitrogen), and analyzed at 9 DIV.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.65731566175098,
+					"nodes": []
+				}, {
+					"index": "3.12.5",
+					"content": "For",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.65731566175098,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.13",
+				"content": "analysis, neurons were fixed in 4% PFA, 4% sucrose in\nPBS and decorated with MAP2 antibody (Millipore) fol-\nlowed by Alexa 594 secondary antibody to distinguish\ndendrites from axons. For quantitative analysis of total\nneurite length, neurites were traced and their total length\nwas measured. The analysis of neurite arborization was per-\nformed on 33 (GFP), 70 (WT), 43 (D147H), and 33 (ASO9V)\nneurons from three independent preparations via the\nSholl analysis.'? Concentric circles with radii increasing\nat regular steps of 10 um were centered to the cell body\nand the number of intersections was automatically evalu-\nated with the Image J Sholl analysis plug-in. TBC1D24\noverexpression resulted in a marked increase in neurite\nlength and arborization compared to control, and the\neffect was evident at the level of both axonal and den-\ndritic compartments (Figures 4A-4D). As the inactive\nARF6 mutant (T27N) was shown to increase dendritic\nbranching*? and axonal elongation,*\u2019 our results are\nconsistent with a negative modulation of ARF6 function\nby TBC1D24. The FIME mutations significantly reverted\nthis phenotype indicating a partial (D147H) or complete\n(ASO9V) loss of function (Figures 4A\u20144D). Notably, ASO9V\nmutation in the TLDc domain severely affected the ARF6-\ndependent TBC1D24 function. The TLDc domain is highly\nconserved through evolution from yeast to man, suggest-\ning a key biological function. In mammals this domain is\nshared by genes involved in the response to oxidative\nstress, such as OXR1 and Ncoa7b, but its specific role has\nnot been yet assessed.\u201d\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.6046637696776616,
+				"nodes": [{
+					"index": "3.13.1",
+					"content": "analysis, neurons were fixed in 4% PFA, 4% sucrose inPBS and decorated with MAP2 antibody (Millipore) fol-lowed by Alexa 594 secondary antibody to distinguishdendrites from axons.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6046637696776616,
+					"nodes": []
+				}, {
+					"index": "3.13.2",
+					"content": "For quantitative analysis of totalneurite length, neurites were traced and their total lengthwas measured.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6046637696776616,
+					"nodes": []
+				}, {
+					"index": "3.13.3",
+					"content": "The analysis of neurite arborization was per-formed on 33 (GFP), 70 (WT), 43 (D147H), and 33 (ASO9V)neurons from three independent preparations via theSholl analysis.'?",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6046637696776616,
+					"nodes": []
+				}, {
+					"index": "3.13.4",
+					"content": "Concentric circles with radii increasingat regular steps of 10 um were centered to the cell bodyand the number of intersections was automatically evalu-ated with the Image J Sholl analysis plug-in.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6046637696776616,
+					"nodes": []
+				}, {
+					"index": "3.13.5",
+					"content": "TBC1D24overexpression resulted in a marked increase in neuritelength and arborization compared to control, and theeffect was evident at the level of both axonal and den-dritic compartments (Figures 4A-4D).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6046637696776616,
+					"nodes": []
+				}, {
+					"index": "3.13.6",
+					"content": "As the inactiveARF6 mutant (T27N) was shown to increase dendriticbranching*?",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6046637696776616,
+					"nodes": []
+				}, {
+					"index": "3.13.7",
+					"content": "and axonal elongation,*\u2019 our results areconsistent with a negative modulation of ARF6 functionby TBC1D24.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6046637696776616,
+					"nodes": []
+				}, {
+					"index": "3.13.8",
+					"content": "The FIME mutations significantly revertedthis phenotype indicating a partial (D147H) or complete(ASO9V) loss of function (Figures 4A\u20144D).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6046637696776616,
+					"nodes": []
+				}, {
+					"index": "3.13.9",
+					"content": "Notably, ASO9Vmutation in the TLDc domain severely affected the ARF6-dependent TBC1D24 function.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6046637696776616,
+					"nodes": []
+				}, {
+					"index": "3.13.10",
+					"content": "The TLDc domain is highlyconserved through evolution from yeast to man, suggest-ing a key biological function.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6046637696776616,
+					"nodes": []
+				}, {
+					"index": "3.13.11",
+					"content": "In mammals this domain isshared by genes involved in the response to oxidativestress, such as OXR1 and Ncoa7b, but its specific role hasnot been yet assessed.\u201d",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.6046637696776616,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.14",
+				"content": "The identification of TBC1D24 mutations in patients\nwith epilepsy provides evidence of the involvement of\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 6.148892156862745,
+				"nodes": [{
+					"index": "3.14.1",
+					"content": "The identification of TBC1D24 mutations in patientswith epilepsy provides evidence of the involvement of",
+					"nodeType": "SENTENCE",
+					"fontSize": 6.148892156862745,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.15",
+				"content": "Compelling evidence indicates that morpho-functional\nchanges underlie epileptogenesis in different epileptic\ndisorders with congenital or acquired gross structural brain\nabnormalities, such as defects in neuronal migration\n(e.g., lissencephaly or epileptic heterotopias), proliferation\n(e.g., tuberous sclerosis), and degeneration (e.g., progres-\nsive myoclonus epilepsies).*\u00b0\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.264755313890262,
+				"nodes": [{
+					"index": "3.15.1",
+					"content": "Compelling evidence indicates that morpho-functionalchanges underlie epileptogenesis in different epilepticdisorders with congenital or acquired gross structural brainabnormalities, such as defects in neuronal migration(e.g., lissencephaly or epileptic heterotopias), proliferation(e.g., tuberous sclerosis), and degeneration (e.g., progres-sive myoclonus epilepsies).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.264755313890262,
+					"nodes": []
+				}, {
+					"index": "3.15.2",
+					"content": "*\u00b0",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.264755313890262,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.16",
+				"content": "juvenile myoclonic epilepsy, one of the most\nfrequent forms of idiopathic generalized epilepsy, interacts\nwith microtubules to regulate cell division and cortical\ndevelopment and its loss disrupts radial migration of\nprojection neurons in the developing rat neocortex.\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.190230769230769,
+				"nodes": [{
+					"index": "3.16.1",
+					"content": "juvenile myoclonic epilepsy, one of the mostfrequent forms of idiopathic generalized epilepsy, interactswith microtubules to regulate cell division and corticaldevelopment and its loss disrupts radial migration ofprojection neurons in the developing rat neocortex.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.190230769230769,
+					"nodes": []
+				}]
+			}, {
+				"index": "3.17",
+				"content": "In this study, we identified TBC1D24 as a gene involved\nin autosomal-recessive idiopathic epilepsy and showed\nthat its protein product is a binding partner of ARF6\ninvolved in neurite outgrowth. We unveiled the involve-\nment of ARF6-dependent molecular pathway in brain\nhyperexcitability and seizures and confirmed the emerging\nrole of subtle cytoarchitectural alterations in the etiology\nof this group of common epileptic disorders.\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.638660550458716,
+				"nodes": [{
+					"index": "3.17.1",
+					"content": "In this study, we identified TBC1D24 as a gene involvedin autosomal-recessive idiopathic epilepsy and showedthat its protein product is a binding partner of ARF6involved in neurite outgrowth.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.638660550458716,
+					"nodes": []
+				}, {
+					"index": "3.17.2",
+					"content": "We unveiled the involve-ment of ARF6-dependent molecular pathway in brainhyperexcitability and seizures and confirmed the emergingrole of subtle cytoarchitectural alterations in the etiologyof this group of common epileptic disorders.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.638660550458716,
+					"nodes": []
+				}]
+			}]
+		}, {
+			"index": "4",
+			"content": "Supplemental Data\n",
+			"nodeType": "TITLE",
+			"fontSize": 6.589647058823529,
+			"nodes": [{
+				"index": "4.1",
+				"content": "Supplemental Data include two figures and two tables can be\nfound with this article online at http://www.cell.com/AJHG/.\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 4.556313559322033,
+				"nodes": [{
+					"index": "4.1.1",
+					"content": "Supplemental Data include two figures and two tables can befound with this article online at http://www.cell.com/AJHG/.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.556313559322033,
+					"nodes": []
+				}]
+			}, {
+				"index": "4.2",
+				"content": "(A) Representative images of mouse cortical neurons trans-\nfected at 6 DIV with either GFP, GFP-TBC1D24-wt (WT),\nGFP-TBC1D24-D147H (D147H), or GFP-TBC1D24-A509V\n(ASO9V) and visualized 36 hr after transfection. Scale bar\nrepresents SO pm.\n\nmh eee ei ei\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 4.357622857142857,
+				"nodes": [{
+					"index": "4.2.1",
+					"content": "(A) Representative images of mouse cortical neurons trans-fected at 6 DIV with either GFP, GFP-TBC1D24-wt (WT),GFP-TBC1D24-D147H (D147H), or GFP-TBC1D24-A509V(ASO9V) and visualized 36 hr after transfection.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.357622857142857,
+					"nodes": []
+				}, {
+					"index": "4.2.2",
+					"content": "Scale barrepresents SO pm.mh eee ei ei",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.357622857142857,
+					"nodes": []
+				}]
+			}]
+		}, {
+			"index": "5",
+			"content": "Acknowledgments\n",
+			"nodeType": "TITLE",
+			"fontSize": 6.736800000000001,
+			"nodes": [{
+				"index": "5.1",
+				"content": "The identification of TBC1D24 mutations in epileptic\npatients together with its predominant expression in crit-\nical epileptogenic brain areas also highlights a fundamental\nrole of this protein in the regulation of neuronal network\nexcitability. Moreover, the evidence that epileptogenic\nmutations affected neurite outgrowth and arborization\nsuggests a critical role of TBC1D24 in developmentally\nregulated events essential for the morphological and func-\ntional maturation of neuronal circuitry. The increasing\nexpression of TBC1D24 during embryogenesis in the\ncortex further strengthens this hypothesis.\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.465844,
+				"nodes": [{
+					"index": "5.1.1",
+					"content": "The identification of TBC1D24 mutations in epilepticpatients together with its predominant expression in crit-ical epileptogenic brain areas also highlights a fundamentalrole of this protein in the regulation of neuronal networkexcitability.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.465844,
+					"nodes": []
+				}, {
+					"index": "5.1.2",
+					"content": "Moreover, the evidence that epileptogenicmutations affected neurite outgrowth and arborizationsuggests a critical role of TBC1D24 in developmentallyregulated events essential for the morphological and func-tional maturation of neuronal circuitry.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.465844,
+					"nodes": []
+				}, {
+					"index": "5.1.3",
+					"content": "The increasingexpression of TBC1D24 during embryogenesis in thecortex further strengthens this hypothesis.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.465844,
+					"nodes": []
+				}]
+			}, {
+				"index": "5.2",
+				"content": "However, recent data highlight the role of develop-\nmental dynamics also in idiopathic epilepsy and dis-\nclose novel mechanisms underlying brain hyperexcit-\nability. LGI1,* mutated in the autosomal-dominant\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.839077669902912,
+				"nodes": [{
+					"index": "5.2.1",
+					"content": "However, recent data highlight the role of develop-mental dynamics also in idiopathic epilepsy and dis-close novel mechanisms underlying brain hyperexcit-ability.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.839077669902912,
+					"nodes": []
+				}, {
+					"index": "5.2.2",
+					"content": "LGI1,* mutated in the autosomal-dominant",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.839077669902912,
+					"nodes": []
+				}]
+			}, {
+				"index": "5.3",
+				"content": "The authors wish to thank the family members for their participa-\ntion in this study. We also thank Philippe Chavrier and Guillaume\nMontagnac (Institut Curie, Paris, France) for the kind gift of\nARF6-HA constructs; Michele Zoli (University of Modena and\nReggio Emilia, Modena, Italy) for statistical analysis and invalu-\nable discussions, and Sonia Congia, Yoanne Clovis, and Franco\nOnofri for precious technical help. This work was supported by\ngrants from the Italian Telethon Foundation (GGP02179 and\nGGP06180 to EZ., GGP09134 to EFB.), the Italian Ministry of\nHealth (GR-2007-657156 to A.E and E.Z.), and the Italian Ministry\nof Research (to F.B.). The support of Compagnia di San Paolo-\nTorino (to F.B. and A.F.) and of the Italian League against Epilepsy\nis also acknowledged. The authors declare no conflict of interest.\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 4.434479532163743,
+				"nodes": [{
+					"index": "5.3.1",
+					"content": "The authors wish to thank the family members for their participa-tion in this study.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.434479532163743,
+					"nodes": []
+				}, {
+					"index": "5.3.2",
+					"content": "We also thank Philippe Chavrier and GuillaumeMontagnac (Institut Curie, Paris, France) for the kind gift ofARF6-HA constructs; Michele Zoli (University of Modena andReggio Emilia, Modena, Italy) for statistical analysis and invalu-able discussions, and Sonia Congia, Yoanne Clovis, and FrancoOnofri for precious technical help.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.434479532163743,
+					"nodes": []
+				}, {
+					"index": "5.3.3",
+					"content": "This work was supported bygrants from the Italian Telethon Foundation (GGP02179 andGGP06180 to EZ., GGP09134 to EFB.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.434479532163743,
+					"nodes": []
+				}, {
+					"index": "5.3.4",
+					"content": "), the Italian Ministry ofHealth (GR-2007-657156 to A.E and E.Z.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.434479532163743,
+					"nodes": []
+				}, {
+					"index": "5.3.5",
+					"content": "), and the Italian Ministryof Research (to F.B.).",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.434479532163743,
+					"nodes": []
+				}, {
+					"index": "5.3.6",
+					"content": "The support of Compagnia di San Paolo-Torino (to F.B.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.434479532163743,
+					"nodes": []
+				}, {
+					"index": "5.3.7",
+					"content": "and A.F.)",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.434479532163743,
+					"nodes": []
+				}, {
+					"index": "5.3.8",
+					"content": "and of the Italian League against Epilepsyis also acknowledged.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.434479532163743,
+					"nodes": []
+				}, {
+					"index": "5.3.9",
+					"content": "The authors declare no conflict of interest.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.434479532163743,
+					"nodes": []
+				}]
+			}, {
+				"index": "5.4",
+				"content": "(B and C) Overexpression of TBC1D24 provoked a massive\nincrease in neurite length (B) and branching (C), whereas\noverexpression of its epileptogenic mutants (i.e., D147H\nand AS5O9V) reverted this phenotype.\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 4.2397168141592925,
+				"nodes": [{
+					"index": "5.4.1",
+					"content": "(B and C) Overexpression of TBC1D24 provoked a massiveincrease in neurite length (B) and branching (C), whereasoverexpression of its epileptogenic mutants (i.e., D147Hand AS5O9V) reverted this phenotype.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.2397168141592925,
+					"nodes": []
+				}]
+			}, {
+				"index": "5.5",
+				"content": "aa eet 4 OY NYS v J ia he YF ese ee OIE USES ro ~~ if rr.\n\n(D) Quantitative analysis of neurite (total), dendrite, or\naxon length in 33 cells for each genotype. Dendrites\nand axons were distinguished by MAP2 labeling and/or\nmorphology. Data expressed as means + SEM and com-\npared via one-way analysis of variance (ANOVA, B and C)\nor repeated-measures ANOVA (D) followed by the Bonferro-\nni\u2019s multiple comparison test. ***p < 0.0001, **p < 0.001\nversus GFP; \u00b0\u00b0\u00b0p < 0.0001, \u00b0\u00b0p < 0.001, \u00b0p < 0.01 versus\nGFP-TBC1D24-wt.\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 3.816412844036697,
+				"nodes": [{
+					"index": "5.5.1",
+					"content": "aa eet 4 OY NYS v J ia he YF ese ee OIE USES ro ~~ if rr.",
+					"nodeType": "SENTENCE",
+					"fontSize": 3.816412844036697,
+					"nodes": []
+				}, {
+					"index": "5.5.2",
+					"content": "(D) Quantitative analysis of neurite (total), dendrite, oraxon length in 33 cells for each genotype.",
+					"nodeType": "SENTENCE",
+					"fontSize": 3.816412844036697,
+					"nodes": []
+				}, {
+					"index": "5.5.3",
+					"content": "Dendritesand axons were distinguished by MAP2 labeling and/ormorphology.",
+					"nodeType": "SENTENCE",
+					"fontSize": 3.816412844036697,
+					"nodes": []
+				}, {
+					"index": "5.5.4",
+					"content": "Data expressed as means + SEM and com-pared via one-way analysis of variance (ANOVA, B and C)or repeated-measures ANOVA (D) followed by the Bonferro-ni\u2019s multiple comparison test.",
+					"nodeType": "SENTENCE",
+					"fontSize": 3.816412844036697,
+					"nodes": []
+				}, {
+					"index": "5.5.5",
+					"content": "***p < 0.0001, **p < 0.001versus GFP; \u00b0\u00b0\u00b0p < 0.0001, \u00b0\u00b0p < 0.001, \u00b0p < 0.01 versusGFP-TBC1D24-wt.",
+					"nodeType": "SENTENCE",
+					"fontSize": 3.816412844036697,
+					"nodes": []
+				}]
+			}, {
+				"index": "5.6",
+				"content": "lateral temporal lobe epilepsy, regulates the func-\ntional maturation and structural pruning of gluta-\nmatergic synapses during postnatal development,\nand its impairment markedly increases excitatory\nsynaptic trasmission. EFHC1,\u00b0 which is involved in\n\nma\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 4.906140170940171,
+				"nodes": [{
+					"index": "5.6.1",
+					"content": "lateral temporal lobe epilepsy, regulates the func-tional maturation and structural pruning of gluta-matergic synapses during postnatal development,and its impairment markedly increases excitatorysynaptic trasmission.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.906140170940171,
+					"nodes": []
+				}, {
+					"index": "5.6.2",
+					"content": "EFHC1,\u00b0 which is involved inma",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.906140170940171,
+					"nodes": []
+				}]
+			}]
+		}, {
+			"index": "6",
+			"content": "Web Resources\n",
+			"nodeType": "TITLE",
+			"fontSize": 6.273384615384615,
+			"nodes": [{
+				"index": "6.1",
+				"content": "The URLs for data presented herein are as follows:\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 4.65678,
+				"nodes": [{
+					"index": "6.1.1",
+					"content": "The URLs for data presented herein are as follows:",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.65678,
+					"nodes": []
+				}]
+			}, {
+				"index": "6.2",
+				"content": "FAM Protein Families Database, http://pfam.sanger.ac.uk/\n-ubMed, http://www.ncbi.nlm.nih.gov/pubmed\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 4.710375,
+				"nodes": [{
+					"index": "6.2.1",
+					"content": "FAM Protein Families Database, http://pfam.sanger.ac.uk/-ubMed, http://www.ncbi.nlm.nih.gov/pubmed",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.710375,
+					"nodes": []
+				}]
+			}]
+		}, {
+			"index": "7",
+			"content": "References\n",
+			"nodeType": "TITLE",
+			"fontSize": 5.736,
+			"nodes": [{
+				"index": "7.1",
+				"content": "LO.\n\n. Hauser, W.A., Annegers, J.F, and Kurland, L.T. (1993).\n\nIncidence of epilepsy and unprovoked seizures in Rochester,\nMinnesota: 1935-1984. Epilepsia 34, 453-468.\n\n. Turnbull, J., Lohi, H., Kearny, J.A., Rouleau, G.A., Delgado-\n\nEscueta, M.H., Cossette, P., and Minassian, B.A. (2005). Sacred\ndisease secrets revealed: The genetics of human epilepsy. Hum.\nMol. Genet. 14, 2491-2500.\n\n. Avanzini, G., and Franceschetti, S. (2003). Cellular biology of\n\nepileptogenesis. Lancet Neurol. 2, 33-42.\n\n. Zhou, Y.D., Lee, S., Jin, Z., Wright, M., Smith, S.E., and Ander-\n\nson, M.P. (2009). Arrested maturation of excitatory synapses in\nautosomal dominant lateral temporal lobe epilepsy. Nat. Med.\n15, 1208-1214.\n\n. de Nijs, L., Leon, C., Nguyen, L., Loturco, J.J., Delgado-Escueta,\n\nA.V., Grisar, T., and Lakaye, B. (2009). EFHC1 interacts with\nmicrotubules to regulate cell division and cortical develop-\nment. Nat. Neurosci. 12, 1266-1274.\n\n. Zata, E, Gennaro, E., Stabile, M., Carbone, I., Malacarne, M.,\n\nMajello, L., Santangelo, R., de Falco, FA., and Bricarelli, F.D.\n(2000). Mapping of a locus for a familial autosomal recessive\nidiopathic myoclonic epilepsy of infancy to chromosome\n16p13. Am. J. Hum. Genet. 66, 1552-1557.\n\n. de Falco, F.A., Majello, L., Santangelo, R., Stabile, M., Bricarelli,\n\nE.D., and Zara, F. (2001). Familial infantile myoclonic epilepsy:\nClinical features in a large kindred with autosomal recessive\ninheritance. Epilepsia 42, 1541-1548.\n\n. Fischer, H., Zhang, X.U., O\u2019Brien, K.P., Kylsten, P., and Engvall, E.\n\n(2001). C7, a novel nucleolar protein, is the mouse homologue\nof the Drosophila late puff product L82 and an isoform of human\nOXR1. Biochem. Biophys. Res. Commun. 281, 795-803.\n\n. Shkolnik, K., Ben-Dor, S., Galiani, D., Hourvitz, A., and Dekel,\n\nN. (2008). Molecular characterization and bioinformatics\nanalysis of Ncoa7B, a novel ovulation-associated and repro-\nduction system-specific Ncoa7 isoform. Reproduction 135,\n321-333.\n\nTraverso, M., Malnati, M., Minetti, C., Regis, S., Tedeschi, S.,\nPedemonte, M., Bruno, C., Biassoni, R., and Zara, F. (2006).\nMultiplex real-time PCR for detection of deletions and dupli-\ncations in dystrophin gene. Biochem. Biophys. Res. Commun.\n339, 145-150.\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 4.830914481495302,
+				"nodes": [{
+					"index": "7.1.1",
+					"content": "LO.. Hauser, W.A., Annegers, J.F, and Kurland, L.T.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.2",
+					"content": "(1993).Incidence of epilepsy and unprovoked seizures in Rochester,Minnesota: 1935-1984.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.3",
+					"content": "Epilepsia 34, 453-468.. Turnbull, J., Lohi, H., Kearny, J.A., Rouleau, G.A., Delgado-Escueta, M.H., Cossette, P., and Minassian, B.A.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.4",
+					"content": "(2005).",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.5",
+					"content": "Sacreddisease secrets revealed: The genetics of human epilepsy.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.6",
+					"content": "Hum.Mol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.7",
+					"content": "Genet.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.8",
+					"content": "14, 2491-2500.. Avanzini, G., and Franceschetti, S. (2003).",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.9",
+					"content": "Cellular biology ofepileptogenesis.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.10",
+					"content": "Lancet Neurol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.11",
+					"content": "2, 33-42.. Zhou, Y.D., Lee, S., Jin, Z., Wright, M., Smith, S.E., and Ander-son, M.P.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.12",
+					"content": "(2009).",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.13",
+					"content": "Arrested maturation of excitatory synapses inautosomal dominant lateral temporal lobe epilepsy.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.14",
+					"content": "Nat.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.15",
+					"content": "Med.15, 1208-1214.. de Nijs, L., Leon, C., Nguyen, L., Loturco, J.J., Delgado-Escueta,A.V., Grisar, T., and Lakaye, B.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.16",
+					"content": "(2009).",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.17",
+					"content": "EFHC1 interacts withmicrotubules to regulate cell division and cortical develop-ment.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.18",
+					"content": "Nat.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.19",
+					"content": "Neurosci.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.20",
+					"content": "12, 1266-1274.. Zata, E, Gennaro, E., Stabile, M., Carbone, I., Malacarne, M.,Majello, L., Santangelo, R., de Falco, FA., and Bricarelli, F.D.(2000).",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.21",
+					"content": "Mapping of a locus for a familial autosomal recessiveidiopathic myoclonic epilepsy of infancy to chromosome16p13.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.22",
+					"content": "Am.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.23",
+					"content": "J. Hum.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.24",
+					"content": "Genet.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.25",
+					"content": "66, 1552-1557.. de Falco, F.A., Majello, L., Santangelo, R., Stabile, M., Bricarelli,E.D., and Zara, F. (2001).",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.26",
+					"content": "Familial infantile myoclonic epilepsy:Clinical features in a large kindred with autosomal recessiveinheritance.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.27",
+					"content": "Epilepsia 42, 1541-1548.. Fischer, H., Zhang, X.U., O\u2019Brien, K.P., Kylsten, P., and Engvall, E.(2001).",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.28",
+					"content": "C7, a novel nucleolar protein, is the mouse homologueof the Drosophila late puff product L82 and an isoform of humanOXR1.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.29",
+					"content": "Biochem.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.30",
+					"content": "Biophys.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.31",
+					"content": "Res.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.32",
+					"content": "Commun.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.33",
+					"content": "281, 795-803.. Shkolnik, K., Ben-Dor, S., Galiani, D., Hourvitz, A., and Dekel,N.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.34",
+					"content": "(2008).",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.35",
+					"content": "Molecular characterization and bioinformaticsanalysis of Ncoa7B, a novel ovulation-associated and repro-duction system-specific Ncoa7 isoform.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.36",
+					"content": "Reproduction 135,321-333.Traverso, M., Malnati, M., Minetti, C., Regis, S., Tedeschi, S.,Pedemonte, M., Bruno, C., Biassoni, R., and Zara, F. (2006).Multiplex real-time PCR for detection of deletions and dupli-cations in dystrophin gene.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.37",
+					"content": "Biochem.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.38",
+					"content": "Biophys.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.39",
+					"content": "Res.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}, {
+					"index": "7.1.40",
+					"content": "Commun.339, 145-150.",
+					"nodeType": "SENTENCE",
+					"fontSize": 4.830914481495302,
+					"nodes": []
+				}]
+			}, {
+				"index": "7.2",
+				"content": "N., Heisenberg, C.P., and Huttner, W.B. (2006). Single-cell\ndetection of microRNAs in developing vertebrate embryos\nafter acute administration of a dual-fluorescence reporter/\nsensor plasmid. Biotechniques 41, 727-732.\n\n. Pan, X., Eathiraj, S., Munson, M., and Lambright, D.G. (2006).\n\nTBC-domain GAPs for Rab GTPases accelerate GTP hydrolysis\nby a dual-finger mechanism. Nature 442, 303-306.\n\n. Martinu, L., Masuda-Robens, J.M., Robertson, S.E., Santy, L.C.,\n\nCasanova, J.E., and Chou, M.M. (2004). The TBC (Tre-2/Bub2/\nCdc16) domain protein TRE17 regulates plasma membrane-\nendosomal trafficking through activation of Arf6. Mol. Cell.\nBiol. 24, 9752-9762.\n\n. Frittoli, E., Palamidessi, A., Pizzigoni, A., Lanzetti, L., Garre,\n\nM., Troglio, F., Troilo, A., Fukuda, M., Di Fiore, P.P., Scita, G.,\nand Confalonieri, S. (2008). The primate-specific protein\nTBC1D3 is required for optimal macropinocytosis in a novel\nARF6-dependent pathway. Mol. Biol. Cell 19, 1304-1316.\n\n. D\u2019Souza-Schorey, C., and Chavrier, P. (2006). ARF proteins:\n\nRoles in membrane traffic and beyond. Nat. Rev. Mol. Cell\nBiol. 7, 347-358.\n\n. Radhakrishna, H., and Donaldson, J.G. (1997). ADP-ribosyla-\n\ntion factor 6 regulates a novel plasma membrane recycling\npathway. J. Cell Biol. 139, 49-61.\n\n. Jaworski, J. (2007). ARF6 in the nervous system. Eur. J. Cell\n\nBiol. 86, 513-524.\n\n. Chiappalone, M., Casagrande, S., Tedesco, M., Valtorta, E,\n\nBaldelli, P., Martinoia, S., and Benfenati, FE. (2009). Opposite\nchanges in glutamatergic and GABAergic transmission\nunderlie the diffuse hyperexcitability of synapsin I-deficient\ncortical networks. Cereb. Cortex 19, 1422-1439.\n\n. Caserta, F., Eldred, W.D., Fernandez, E., Hausman, R.E., Stan-\n\nford, L.R., Bulderev, S.V., Schwarzer, S., and Stanley, H.E.\n(1995). Determination of fractal dimension of physiologically\ncharacterized neurons in two and three dimensions. J. Neuro-\nsci. Methods 56, 133-144.\n\n. Hernandez-Deviez, D.J., Casanova, J.E., and Wilson, J.M.\n\n(2002). Regulation of dendritic development by the ARF\nexchange factor ARNO. Nat. Neurosci. 5, 623-624.\n\n. Hernandez-Deviez, D.J., Roth, M.G., Casanova, J.E., and\n\nWilson, J.M. (2004). ARNO and ARF6 regulate axonal elonga-\ntion and branching through downstream activation of phos-\nphatidylinositol 4-phosphate S-kinase alpha. Mol. Biol. Cell\n15, 111-120.\n\n. Krauss, M., Kinuta, M., Wenk, M.R., De Camilli, P., Takei, K.,\n\nand Haucke, V. (2003). ARF6 stimulates clathrin/AP-2 recruit-\nment to synaptic membranes by activating phosphatidylino-\nsitol phosphate kinase type Igamma. J. Cell Biol. 162,\n113-124.\n\n. Choi, S., Ko, J., Lee, J.R., Lee, H.W., Kim, K., Chung, H.S., Kim,\n\nH., and Kim, E. (2006). ARF6 and EFA6A regulate the develop-\nment and maintenance of dendritic spines. J. Neurosci. 26,\n4811-4819.\n\n. Scholz, R., Berberich, S., Rathgeber, L., Kolleker, A., Kohr, G.,\n\nand Kornau, H.C. (2010). AMPA receptor signaling through\nBRAGZ2 and Arf6 critical for long-term synaptic depression.\nNeuron 66, 768-780.\n\n. Andrade, D.M. (2009). Genetic basis in epilepsies caused by\n\nmalformations of cortical development and in those with\n\nrT \u2014_ ms a as 4 = re 46s 6f!/. To\n",
+				"nodeType": "PARAGRAPH",
+				"fontSize": 5.209893032015066,
+				"nodes": [{
+					"index": "7.2.1",
+					"content": "N., Heisenberg, C.P., and Huttner, W.B.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.2",
+					"content": "(2006).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.3",
+					"content": "Single-celldetection of microRNAs in developing vertebrate embryosafter acute administration of a dual-fluorescence reporter/sensor plasmid.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.4",
+					"content": "Biotechniques 41, 727-732.. Pan, X., Eathiraj, S., Munson, M., and Lambright, D.G.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.5",
+					"content": "(2006).TBC-domain GAPs for Rab GTPases accelerate GTP hydrolysisby a dual-finger mechanism.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.6",
+					"content": "Nature 442, 303-306.. Martinu, L., Masuda-Robens, J.M., Robertson, S.E., Santy, L.C.,Casanova, J.E., and Chou, M.M.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.7",
+					"content": "(2004).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.8",
+					"content": "The TBC (Tre-2/Bub2/Cdc16) domain protein TRE17 regulates plasma membrane-endosomal trafficking through activation of Arf6.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.9",
+					"content": "Mol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.10",
+					"content": "Cell.Biol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.11",
+					"content": "24, 9752-9762.. Frittoli, E., Palamidessi, A., Pizzigoni, A., Lanzetti, L., Garre,M., Troglio, F., Troilo, A., Fukuda, M., Di Fiore, P.P., Scita, G.,and Confalonieri, S. (2008).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.12",
+					"content": "The primate-specific proteinTBC1D3 is required for optimal macropinocytosis in a novelARF6-dependent pathway.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.13",
+					"content": "Mol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.14",
+					"content": "Biol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.15",
+					"content": "Cell 19, 1304-1316.. D\u2019Souza-Schorey, C., and Chavrier, P. (2006).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.16",
+					"content": "ARF proteins:Roles in membrane traffic and beyond.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.17",
+					"content": "Nat.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.18",
+					"content": "Rev.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.19",
+					"content": "Mol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.20",
+					"content": "CellBiol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.21",
+					"content": "7, 347-358.. Radhakrishna, H., and Donaldson, J.G.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.22",
+					"content": "(1997).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.23",
+					"content": "ADP-ribosyla-tion factor 6 regulates a novel plasma membrane recyclingpathway.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.24",
+					"content": "J.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.25",
+					"content": "Cell Biol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.26",
+					"content": "139, 49-61.. Jaworski, J.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.27",
+					"content": "(2007).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.28",
+					"content": "ARF6 in the nervous system.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.29",
+					"content": "Eur.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.30",
+					"content": "J. CellBiol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.31",
+					"content": "86, 513-524.. Chiappalone, M., Casagrande, S., Tedesco, M., Valtorta, E,Baldelli, P., Martinoia, S., and Benfenati, FE.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.32",
+					"content": "(2009).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.33",
+					"content": "Oppositechanges in glutamatergic and GABAergic transmissionunderlie the diffuse hyperexcitability of synapsin I-deficientcortical networks.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.34",
+					"content": "Cereb.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.35",
+					"content": "Cortex 19, 1422-1439.. Caserta, F., Eldred, W.D., Fernandez, E., Hausman, R.E., Stan-ford, L.R., Bulderev, S.V., Schwarzer, S., and Stanley, H.E.(1995).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.36",
+					"content": "Determination of fractal dimension of physiologicallycharacterized neurons in two and three dimensions.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.37",
+					"content": "J. Neuro-sci.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.38",
+					"content": "Methods 56, 133-144.. Hernandez-Deviez, D.J., Casanova, J.E., and Wilson, J.M.(2002).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.39",
+					"content": "Regulation of dendritic development by the ARFexchange factor ARNO.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.40",
+					"content": "Nat.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.41",
+					"content": "Neurosci.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.42",
+					"content": "5, 623-624.. Hernandez-Deviez, D.J., Roth, M.G., Casanova, J.E., andWilson, J.M.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.43",
+					"content": "(2004).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.44",
+					"content": "ARNO and ARF6 regulate axonal elonga-tion and branching through downstream activation of phos-phatidylinositol 4-phosphate S-kinase alpha.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.45",
+					"content": "Mol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.46",
+					"content": "Biol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.47",
+					"content": "Cell15, 111-120.. Krauss, M., Kinuta, M., Wenk, M.R., De Camilli, P., Takei, K.,and Haucke, V. (2003).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.48",
+					"content": "ARF6 stimulates clathrin/AP-2 recruit-ment to synaptic membranes by activating phosphatidylino-sitol phosphate kinase type Igamma.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.49",
+					"content": "J.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.50",
+					"content": "Cell Biol.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.51",
+					"content": "162,113-124.. Choi, S., Ko, J., Lee, J.R., Lee, H.W., Kim, K., Chung, H.S., Kim,H., and Kim, E. (2006).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.52",
+					"content": "ARF6 and EFA6A regulate the develop-ment and maintenance of dendritic spines.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.53",
+					"content": "J. Neurosci.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.54",
+					"content": "26,4811-4819.. Scholz, R., Berberich, S., Rathgeber, L., Kolleker, A., Kohr, G.,and Kornau, H.C. (2010).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.55",
+					"content": "AMPA receptor signaling throughBRAGZ2 and Arf6 critical for long-term synaptic depression.Neuron 66, 768-780.. Andrade, D.M.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.56",
+					"content": "(2009).",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.57",
+					"content": "Genetic basis in epilepsies caused bymalformations of cortical development and in those withrT \u2014_ ms a as 4 = re 46s 6f!/.",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}, {
+					"index": "7.2.58",
+					"content": "To",
+					"nodeType": "SENTENCE",
+					"fontSize": 5.209893032015066,
+					"nodes": []
+				}]
+			}]
+		}]
+	},
+	"figures": [{
+		"content": "riygure tf. NSCHICULC MUIGIYSIs Ul TDN ID 2't\n\n(A) Pedigree of the family with FIME and segregation analysis of TBC 1D24 mutations. Haplotypes are shown in colored bars. The red and gree\nhaplotypes cosegregate with c.1526C>T and c.439G>C TBC1D24 mutations, respectively. Affected patients are indicated by filled symbol:\n(B) Electropherograms of c.439G>C and c.1526C>T mutations.\n\n(C) Genomic organization and functional domains of human TBC1D24. Affected amino acids are highly conserved throughout evolutior\n",
+		"url": "./pdfs/8.png",
+		"index": "fg1"
+	}, {
+		"content": "Figure 2. Expression Analysis of TBC1D24\n\n(A) RT-PCR showing the expression profile of TBC1D24 in various\nhuman tissues. TBC1D24 is preferentially expressed in brain. Data\nare represented as means + SEM.\n\n(B) RNA in situ hybridization on brain sections from 12-week-old\nmouse shows that Tbc1d24 is abundantly expressed in the\nneocortex (Cx) and hippocampus (Hp).\n\n(C) High-magnification image of the cerebral cortex revealed\na higher expression of Tbc1d24 in deep cortical layers (V/VI)\ncompared to superficial layers (II-III).\n\n(D) High-magnification image of hippocampus shows the highest\nexpression of Tbc1d24 in the CA3 region compared to the CA1\nregion and dentate gyrus (DG). Hb, hindbrain.\n",
+		"url": "./pdfs/14.png",
+		"index": "fg2"
+	}, {
+		"content": "Figure 3. [TBC1D24 Is an ARF6-Interacting Protein\n\n(A) Representative image of a COS-7 cell transfected with GFP-TBC1D24 and visualized 36 hr after transfection.\n\n(B) Representative images of a COS-7 cell cotransfected with GFP-TBC1D24 and ARF6-HA and visualized 36 hr after transfection. H\nimmunoreactivity was detected by HA antibody and Alexa546 conjugated secondary antibodies. The arrow in the merge panel show\ncolocalization of overexpressed ARF6 and TBC1D24 at the plasma membrane.\n\nScale bars represent 20 um.\n\n(C) TBC1D24-WT, D147H, and ASO9V were cotransfected with HA-tagged wild-type (WT), T27N, or Q67L ARF6 in COS-7 cells an\nimmunoprecipitated (IP) with GFP antibody. Associated ARF6 (coIP) was detected by HA antibody (\u00abHA) in retrospective western blo\nting (WB). Wcl. whole cell lvsate.\n",
+		"url": "./pdfs/18.png",
+		"index": "fg3"
+	}, {
+		"content": "the ARF6-dependent molecular pathway in the generation\nof brain hyperexcitability and seizures. ARF6 has been\nshown to participate in several processes of neuronal\ndevelopment and plasticity by regulating axonal elonga-\ntion and branching,*\u201d dendrite arborization,\u201d' and exo-\nendocytic cycling of synaptic vesicles.** In addition, recent\nevidence points out a role for ARF6 in spine maturation\nand stability** and in the control of AMPA receptor inter-\nnalization during long-term depression,** both processes\nimplicated in the modulation of brain excitability.\n",
+		"url": "./pdfs/24.png",
+		"index": "fg4"
+	}],
+	"pubmed_entity": {
+		"paper_id": "20727515",
+		"title": "TBC1D24, an ARF6-interacting protein, is mutated in familial infantile myoclonic epilepsy",
+		"date": "",
+		"author_list": ["Antonio Falace", "Fabia Filipello", "Veronica La Padula", "Nicola Vanni", "Francesca Madia", "Davide De Pietri Tonelli", "Fabrizio A de Falco", "Pasquale Striano", "Franca Dagna Bricarelli", "Carlo Minetti", "Fabio Benfenati", "Anna Fassio", "Federico Zara", "Antonio Falace et al.", "Antonio Falace", "Fabia Filipello", "Veronica La Padula", "Nicola Vanni", "Francesca Madia", "Davide De Pietri Tonelli", "Fabrizio A de Falco", "Pasquale Striano", "Franca Dagna Bricarelli", "Carlo Minetti", "Fabio Benfenati", "Anna Fassio", "Federico Zara"],
+		"journal": "",
+		"abstract": "Idiopathic epilepsies (IEs) are a group of disorders characterized by recurrent seizures in the absence of detectable brain lesions or metabolic abnormalities. IEs include common disorders with a complex mode of inheritance and rare Mendelian traits suggesting the occurrence of several alleles with variable penetrance. We previously described a large family with a recessive form of idiopathic epilepsy, named familial infantile myoclonic epilepsy (FIME), and mapped the disease locus on chromosome 16p13.3 by linkage analysis. In the present study, we found that two compound heterozygous missense mutations (D147H and A509V) in TBC1D24, a gene of unknown function, are responsible for FIME. In situ hybridization analysis revealed that Tbc1d24 is mainly expressed at the level of the cerebral cortex and the hippocampus. By coimmunoprecipitation assay we found that TBC1D24 binds ARF6, a Ras-related family of small GTPases regulating exo-endocytosis dynamics. The main recognized function of ARF6 in the nervous system is the regulation of dendritic branching, spine formation, and axonal extension. TBC1D24 overexpression resulted in a significant increase in neurite length and arborization and the FIME mutations significantly reverted this phenotype. In this study we identified a gene mutation involved in autosomal-recessive idiopathic epilepsy, unveiled the involvement of ARF6-dependent molecular pathway in brain hyperexcitability and seizures, and confirmed the emerging role of subtle cytoarchitectural alterations in the etiology of this group of common epileptic disorders.",
+		"free_label": true,
+		"links_dict": {
+			"Elsevier Science": "https://linkinghub.elsevier.com/retrieve/pii/S0002-9297(10)00377-0",
+			"Europe PubMed Central": "https://europepmc.org/abstract/MED/20727515",
+			"PubMed Central": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20727515/"
+		},
+		"doi_id": "10.1016/j.ajhg.2010.07.020",
+		"pm_id": "",
+		"pmc_id": "PMC2933335",
+		"is_success": true,
+		"download_type": "Europe PubMed Central",
+		"download_path": "./pdfs/20727515_TBC1D24,_an_ARF6-interacting_protein,_is_mutated_in_familial_infantile_myoclonic_epilepsy.pdf",
+		"info": ""
+	}
+}
