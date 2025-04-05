@@ -1,0 +1,123 @@
+#server:
+#  port: 8081
+#  servlet:
+#    context-path: /api
+#  compression:
+#    enabled: true
+#    min-response-size: 1024
+
+
+spring:
+  #  application:
+  #    name: lsv-portal
+  servlet:
+    multipart:
+      max-file-size: 1024MB
+      max-request-size: 1024MB
+  profiles:
+    active: prod
+  main:
+    allow-circular-references: true
+
+
+# 设置JVM栈的大小为128MB
+JAVA_OPTS: "-Xss128m"
+
+qiniu:
+  accessKey: 6PgvXRaa550i0rb1eAeVqOcFRy1AxzMbVpYFFlQ7
+  secretKey: TIBscLPF-TQm2qn84WwtDpe1GEk1Q1lTOhcpN4BJ
+  # 对象储存
+  bucket: medseeker-oss # 空间名称
+  zone: huanan # 存储区域
+  domain: http://ask.genemed.tech/ # 访问域名
+
+
+#微信开放平台
+#wxcode:
+#  appId: wx7a897b45b697e339
+#  appSecret: f297ffa16c24fa3ff1e93367781f162f
+#  redirectUri: http://medseeker.genemed.tech/api/wechat/callback
+#  frontUrl: http://localhost:8081/
+
+mythreadpool:
+  maxPoolSize: 20
+  corePoolSize: 8
+  queueCapacity: 2048
+  keepAliveSeconds: 60
+  threadNamePrefix: springThreadPool
+  waitForTasksToCompleteOnShutdown: true
+
+ase:
+  secret: qmpjWL86mKuHDEHartCvCjkTBm2U3arZ
+
+
+jwt:
+  tokenHeader: Authorization #JWT request header
+  secret: ask-portal-secret #JWT key
+  expiration: 604800 #JWT timeout(60*60*24*7)
+  tokenHead: 'Bearer '  #JWT begin
+
+
+
+secure:
+  ignored:
+    urls: #Safe Path Whitelist
+      - /swagger-ui.html
+      - /swagger-resources/**
+      - /swagger/**
+      - /**/v2/api-docs
+      - /**/*.js
+      - /**/*.css
+      - /**/*.png
+      - /**/*.jpg
+      - /**/*.jpeg
+      - /images/**
+      - /**/*.ico
+      - /webjars/springfox-swagger-ui/**
+      - /druid/**
+      - /actuator/**
+      - /sso/**
+      - /home/**
+      - /pms/product/**
+      - /pms/cp/**
+      - /tms/coin/**
+      - /user/w/**
+      - /comm/**
+      - /cms/**
+
+
+    #      - /user/wallet/**
+    #      - /user/invite/**
+
+
+    anonymousUrls:
+      - /user/register
+      - /user/login
+      - /user/captcha
+      - /user/forget
+
+#redis:
+#  database: duoyun_admin
+#  key:
+#    prefix:
+#      captchaRegister: "duoyun_admin:captchaRegister:"
+#      captchaForgetPassword: "duoyun_admin:captchaForgetPassword:"
+#      captchaLogin: "duoyun_admin:captchaLogin:"
+#
+#    expire:
+#      captcha: 300 # verification code time out
+
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    auto-mapping-behavior: full
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  mapper-locations: classpath*:mapper/**/*.xml
+  global-config:
+    # 逻辑删除配置
+    db-config:
+      # 删除前
+      logic-not-delete-value: 1
+      # 删除后
+      logic-delete-value: 0
